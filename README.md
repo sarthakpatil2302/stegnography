@@ -36,7 +36,7 @@ Steps to Run the Code
 Install OpenCV:
 
 pip install opencv-python
-Place an image file (e.g., mypic.png) in the project directory.
+Place an image file (e.g., shark.png) in the project directory.
 Run the script:
 
 python steganography.py
