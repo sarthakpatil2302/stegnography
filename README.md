@@ -77,7 +77,7 @@ Example:
 
 project_folder/
     ├── steganography.py
-    ├── shark.png  # Image to use for hiding data
+    ├── laptop.png  # Image to use for hiding data
 
 3. Run the Script
 
